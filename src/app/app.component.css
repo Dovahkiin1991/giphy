@@ -1,0 +1,11 @@
+h1 {
+  font-family: "Arial";
+}
+.container img {
+  max-width: 90%;
+  display: block;
+  margin: 0px auto;
+}
+.container .form-inline {
+  margin-bottom: 30px;
+}
